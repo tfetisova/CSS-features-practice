@@ -11,3 +11,11 @@ body{
     overflow-x: hidden;
     font-family: sans-serif;
 }
+header{
+    box-sizing: border-box;
+    min-height: 100vh;
+    text-align: center;
+    padding-top: 10%;
+    transform-style: inherit;
+    width: 100vw;
+}
