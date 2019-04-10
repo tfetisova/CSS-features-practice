@@ -8,6 +8,6 @@ body{
     perspective: 1px;
     transform-style: preserve-3d;
     overflow-y: scroll;
-    overflow-y: hidden;
+    overflow-x: hidden;
     font-family: sans-serif;
 }
