@@ -33,4 +33,6 @@ header::before{
     background-image: url(BG.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+   /*  Параллакс */
+    transform: translateZ(-1px) scale(2);
 }
